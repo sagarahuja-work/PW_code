@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "unicorn":"npx playwright test tests/Assignment_1_Unicorn/Unicorn.spec.ts",
-    "saucedemo":"npx playwright test tests/Assignment_2_Saucedemo/saucedemo.spec.ts",
-    "box" : "npx playwright test tests/Assignment_3_BoxApp/box_Notes.spec.ts"
+    "unicorn":"npx playwright test Playwright_assignment_1013635_Sagar_Ahuja/tests/Assignment_1_Unicorn/Unicorn.spec.ts",
+    "saucedemo":"npx playwright test Playwright_assignment_1013635_Sagar_Ahuja/tests/Assignment_2_Saucedemo/saucedemo.spec.ts",
+    "box" : "npx playwright test Playwright_assignment_1013635_Sagar_Ahuja/tests/Assignment_3_BoxApp/box_Notes.spec.ts"
 
   },
   "keywords": [],
