@@ -13,7 +13,7 @@ test(`Sauce-Demo Test` , async({page})=>{
             let productPriceOnPLP;
             let productNameonPLP;
             
-
+            //test steps format
             await test.step('Step 1: Open URL', async()=>
             {
                 await page.goto("https://www.saucedemo.com/");
